@@ -1,0 +1,174 @@
+
+html, body{
+    height: 100%; background-color: floralwhite;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%;
+    vertical-align: baseline; text-decoration: none;
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+}
+div{
+    display: block;
+}
+.jfk-scrollbar::-webkit-scrollbar{
+    height: 16px; overflow: visible; width: 16px;
+}
+.jfk-scrollbar::-webkit-scrollbar-button{
+    height: 0; width: 0;
+}
+body.jfk-scrollbar::-webkit-scrollbar-corner{
+    background-clip: padding-box; background-color: darkolivegreen; border: solid #ffffff;
+    border-width: 3px 0 0 3px; box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.14) ;
+}
+.jfk-scrollbar::-webkit-scrollbar-corner{
+    background: transparent;
+}
+body.jfk-scrollbar::-webkit-scrollbar-thumb{
+    border-width: 1px 1px 1px 5px;
+}
+.jfk-scrollbar::-webkit-scrollbar-thumb{
+    background-color: rgba(0, 0, 0, 0.2); background-clip: padding-box; border: solid transparent;
+    border-width: 1px 1px 1px 6px; min-height: 28px; padding: 100px 0 0;
+    box-shadow: inset 1px 1px 0 rgba(0,0,0,.1), inset 0 -1px 0 rgba(0,0,0,.07);
+}
+.jfk-scrollbar::-webkit-scrollbar-track {
+    background-clip: padding-box; border: solid transparent; border-width: 0 0 0 4px;
+}
+body.jfk-scrollbar::-webkit-scrollbar-track-piece {
+    background-clip: padding-box; background-color: #f5f5f5; border: solid #fff;
+    border-width: 0 0 0 3px; box-shadow: inset 1px 0 0 rgba(0,0,0,.14), inset -1px 0 0 rgba(0,0,0,.07);
+}
+div.bottom-wrapper{
+    min-height: 100%; margin: 0 auto -60px;
+}
+.gb_Kg{
+    color: #000000; font: 13px/27px Arial, sans-serif; left: 0; min-width: 1002px; 
+    position: absolute; top: 0; width: 100%;
+}
+.gb_Pg .gb_i{
+    margin-left: 0 !important; margin-right: 0 !important;
+}
+.gb_Pg{
+    white-space: nowrap;
+}
+.gb_ag{
+    background: #f1f1f1; font: 13px/27px Arial, sans-serif; position: relative; height: 60px;
+    width: 100%;
+}
+.gb_0a.gb_i{
+    flex: 1 1 auto; float: right; order: 1;
+}
+.gb_i{
+    height: 60px; line-height: 58px; vertical-align: middle; 
+}
+.gb_0a{
+    min-width: 165px; padding-left: 30px; padding-right: 30px; position: relative; 
+    text-align: right; z-index: 986;  align-items: center;justify-content: flex-end;
+}
+.gb_4c{
+    flex: 0 1 auto; line-height: normal; position: relative; text-align: right;
+    padding-top: 4px;
+}
+a{
+    font-size: 20px; color: slateblue;
+}
+.gb_6d{
+    height: 60px;
+}
+.gb_wc{
+    position: absolute; padding: 0 20px 0 15px;
+}
+.gb_yc .gb_xc {
+    position: relative; top: 2px;
+}
+a:visited{
+    color: #1122cc;
+}
+.gb_xc{
+    display: inline-block; line-height: 0; outline: none; vertical-align: middle;
+}
+.gb_xc .gb_zc{
+    background-position: 0 -35px; height: 33px; width: 92px; display: block;
+}
+.gb_zc{
+    background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png); 
+    background-size: 528px 68px;
+}
+.appbar{
+    color: #d93025; font-size: 20px; margin: 25px 35px;
+}
+.gy3Eif{
+    border-bottom: 1px solid #ebebeb;
+}
+.Mza7yc{
+    max-width: 1140px; min-width: 200px; width: 96%; margin: 40px 2% 0 45px;
+}
+.otByu{
+    width: 100%; clear: both;
+}
+div.otByu div.yIQOUb {
+    clear: both;
+}
+div.otByu div.I1Kbt, div.lFApYd {
+    float: left; display: inline-block; min-width: 167px; width: 16%;  font-size: 16px;
+    height: 42px; font-weight: 500; color: #333; vertical-align: middle;
+}
+div.lOTAE {
+    height: 30px; display: table-cell; vertical-align: middle;
+}
+div.otByu div.HoCfzc {
+    float: left; display: inline-block; min-width: 167px; min-height: 41px; 
+    vertical-align: middle; width: 50%;
+}
+div.otByu div.orcpGe {
+    float: left; display: inline-block; width: 33%; font-size: 13px; font-weight: 700;
+    color: #777; padding-left: 5px; vertical-align: middle;
+}
+div.otByu div.FAcADc {
+    float: left; display: inline-block; min-width: 167px; width: 16%; height: 42px;
+    color: #222; font-size: 13px; line-height: 16px; vertical-align: middle;
+}
+div.otByu div.jYcx0e {
+    float: left; display: inline-block; min-width: 167px; min-height: 41px;
+    vertical-align: middle; width: 50%;
+}
+div.PLLUQc {
+    padding-right: 16px;
+}
+input {
+    -webkit-writing-mode: horizontal-tb !important; text-rendering: auto;
+    color: -internal-light-dark(black, white); letter-spacing: normal; word-spacing: normal;
+    text-transform: none; text-indent: 0px; text-shadow: none; display: inline-block;
+    appearance: textfield; background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical; cursor: text; margin: 0em; font: 400 13.3333px Arial;
+}
+div.otByu div.jYcx0e input[type="text"]{
+    width: 100%; text-align: left;
+}
+.jfk-textinput {
+    border-radius: 1px; border: 1px solid #d9d9d9; border-top: 1px solid #c0c0c0;
+    font-size: 13px; height: 25px; padding: 1px 8px;
+}
+div.otByu div.cwqNnb {
+    float: left; display: inline-block; width: 32%; min-width: 160px; margin: 0 0 8px 1%;
+    color: #555; font-size: 11px; padding-left: 5px; vertical-align: middle; position: relative;
+}
+div.otByu div.cwqNnb span.BFlQMb {
+    color: #666; font-family: monospace; font-size: 11px; white-space: pre;
+}
+div.Qy8Xkb {
+    margin: 50px 0; clear: both; border-top: 1px solid #ebebeb;
+}
+.dUBGpe{
+    float: right; margin: 0 12px; box-shadow: none; background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe, #4787ed); border: 1px solid #3079ed;
+    color: #fff; border-radius: 2px; cursor: default; font-size: 11px; font-weight: bold; text-align: center;
+    white-space: nowrap; outline: 0;
+}
+input[type="submit" i] {
+    appearance: push-button; align-items: flex-start; box-sizing: border-box;
+}
